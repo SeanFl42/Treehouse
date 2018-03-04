@@ -1,5 +1,7 @@
 ## Treehouse
 
-This repo is for all my course file completed through teamtreehouse.com
+This repo is for all my course files completed through teamtreehouse.com
 
-Check out my Treehouse profile - www.teamtreehouse.com/seanflanagan
+Also check out my Treehouse profile [here](https://teamtreehouse.com/seanflanagan).
+
+![attack_of_the_clones_3](https://user-images.githubusercontent.com/25179788/36940869-a5ee692c-1f45-11e8-8e0a-4eb9a7001f29.jpg)
